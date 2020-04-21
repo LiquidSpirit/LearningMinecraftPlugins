@@ -1,0 +1,3 @@
+rootProject.name = 'learningminecraftplugins'
+
+include 'learningminecraftplugins-common', 'learningminecraftplugins-sponge', 'learningminecraftplugins-forge'

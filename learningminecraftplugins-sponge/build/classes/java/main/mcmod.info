@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "learningminecraftplugins",
+        "name": "LearningMinecraftPlugins",
+        "version": "1.0.0",
+        "description": "Learning Minecraft Plugins",
+        "url": "https://github.com/LiquidSpirit",
+        "authorList": [
+            "LiquidSpirit"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
